@@ -59,7 +59,7 @@
     </div>
 
 
-    <script src="http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyBvoxNVNChCmTJqmmLFKEu_QyakDi5wOds"></script>
+    <script src="https://maps.google.com/maps/api/js?key=AIzaSyD4g3IXTxk5Ecl9bU4GEA3Qjf-hozF3PTQ&callback=initMap"></script>
     @include('layouts.inject')
 </body>
 

@@ -115,8 +115,10 @@
             </div>
         </div>
     </div>
-
+    
 </div>
-
+<!-- Google Map start-->
+<div id='grey-map' class="height-450"></div>
+<!--  Google Map End-->
 
 @endsection
