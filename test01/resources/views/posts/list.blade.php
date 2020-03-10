@@ -24,6 +24,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
+                @foreach ($posts as $key => $post)
                 <!--classic image post-->
                 <div class="blog-classic">
                     <div class="date">
@@ -49,8 +50,8 @@
                     </div>
                 </div>
                 <!--classic image post-->
-
-
+                @endforeach
+                
 
                 <!--pagination-->
                 <div class="text-center">
